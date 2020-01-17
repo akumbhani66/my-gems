@@ -3,7 +3,7 @@
 * NPMs
 * Bash
 * Tools
-  [croc](https://github.com/schollz/croc) To transfer things from terminal to terminal
-  [webtty](https://github.com/maxmcd/webtty) To share terminal session
+    1. [croc](https://github.com/schollz/croc) To transfer things from terminal to terminal
+    2. [webtty](https://github.com/maxmcd/webtty) To share terminal session
 * Blogs
 * Authors
