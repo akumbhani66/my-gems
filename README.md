@@ -7,6 +7,7 @@
     2. [webtty](https://github.com/maxmcd/webtty) To share terminal session
     3. [hidden](https://github.com/dwarvesf/hidden) To hide menu bar icons - MacOS
     4. [speed monitor](https://github.com/albertofwb/SpeedMonitor) A lightweight speed monitor - MacOs
+    5. [own photos](https://github.com/hooram/ownphotos) Self hosted alternative to google photos
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
 * Authors
