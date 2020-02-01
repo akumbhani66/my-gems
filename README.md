@@ -11,6 +11,7 @@
     4. [speed monitor](https://github.com/albertofwb/SpeedMonitor) A lightweight speed monitor - MacOs
     5. [own photos](https://github.com/hooram/ownphotos) Self hosted alternative to google photos
     6. [vscode on sercer](https://github.com/cdr/sshcode) To run vscode on any server over ssh
+    7. [asciinema](https://github.com/asciinema/asciinema) To record termial session.
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
 * Authors
