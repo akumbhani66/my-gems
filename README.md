@@ -13,6 +13,7 @@
     6. [vscode on sercer](https://github.com/cdr/sshcode) To run vscode on any server over ssh
     7. [asciinema](https://github.com/asciinema/asciinema) To record termial session.
     8. [HapticKey](https://github.com/niw/HapticKey) A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch Bar.
+    9. [sshcode](https://github.com/cdr/sshcode) - To run vscode on server
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
 * Authors
