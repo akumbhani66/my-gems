@@ -15,6 +15,7 @@
     8.  [HapticKey](https://github.com/niw/HapticKey) A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch Bar.
     9.  [sshcode](https://github.com/cdr/sshcode) - To run vscode on server
     10. [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv 
+    11. [hyper](https://hyper.is) - A terminal built on web technologies
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
 * Authors
