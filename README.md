@@ -4,7 +4,7 @@
     1. [npm-check](https://github.com/dylang/npm-check) - To check for outdated, incorrect, and unused dependencies.
 * Bash
     1. [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - To download videos from youtube and few other resource.
-* Tools
+* Tools/Utilities
     1.  [croc](https://github.com/schollz/croc) To transfer things from terminal to terminal
     2.  [webtty](https://github.com/maxmcd/webtty) To share terminal session
     3.  [hidden](https://github.com/dwarvesf/hidden) To hide menu bar icons - MacOS
