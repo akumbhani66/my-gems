@@ -17,6 +17,7 @@
     10. [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv 
     11. [hyper](https://hyper.is) - A terminal built on web technologies
     12. [kap](https://github.com/wulkano/kap) - A light weight open source screen recorder for MacOS.
+    13. [nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - To evaluate Nodejs Code Snippets From Menubar!
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
 * Authors
