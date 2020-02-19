@@ -18,6 +18,7 @@
     11. [hyper](https://hyper.is) - A terminal built on web technologies
     12. [kap](https://github.com/wulkano/kap) - A light weight open source screen recorder for MacOS.
     13. [nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - To evaluate Nodejs Code Snippets From Menubar!
+    14. [apple-juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
 * Authors
