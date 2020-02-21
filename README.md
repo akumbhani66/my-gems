@@ -2,6 +2,7 @@
 
 * NPMs
     1. [npm-check](https://github.com/dylang/npm-check) - To check for outdated, incorrect, and unused dependencies.
+    2. [node-prune](https://github.com/tj/node-prune) - A small tool to prune unnecessary files from ./node_modules, such as markdown, typescript source files.
 * Bash
     1. [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - To download videos from youtube and few other resource.
 * Tools/Utilities
