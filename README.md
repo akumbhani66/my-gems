@@ -22,6 +22,7 @@
     14. [apple-juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
     15. [Fanny](https://github.com/DanielStormApps/Fanny) - To Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center.
     16. [shuttle](https://github.com/fitztrev/shuttle) - A simple shortcut menu for macOS
+    17. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - vscode extension to sync setting across workstations.
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
 * Authors
