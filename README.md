@@ -5,6 +5,7 @@
     2. [node-prune](https://github.com/tj/node-prune) - A small tool to prune unnecessary files from ./node_modules, such as markdown, typescript source files.
 * Bash
     1. [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - To download videos from youtube and few other resource.
+    2. [tokei](https://github.com/XAMPPRocky/tokei) - To count your code, quickly.
 * Tools/Utilities
     1.  [croc](https://github.com/schollz/croc) To transfer things from terminal to terminal
     2.  [webtty](https://github.com/maxmcd/webtty) To share terminal session
