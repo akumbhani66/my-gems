@@ -28,4 +28,5 @@
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md)
+    3. [git-useful-stuffs](https://github.com/jbranchaud/til/#git)
 * Authors
