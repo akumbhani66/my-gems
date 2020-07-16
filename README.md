@@ -26,6 +26,7 @@
     17. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - vscode extension to sync setting across workstations.
     18. [Go binaries](https://github.com/tj/gobinaries) - Go binaries platform. language independent.
     19. [fx](https://github.com/antonmedv/fx) - Command line JSON viewer.
+    20. [Matomo](https://github.com/matomo-org/matomo) -  Open analytics platform. alternative to ga.
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md)
