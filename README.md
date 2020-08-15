@@ -3,6 +3,7 @@
 * NPMs
     1. [npm-check](https://github.com/dylang/npm-check) - To check for outdated, incorrect, and unused dependencies.
     2. [node-prune](https://github.com/tj/node-prune) - A small tool to prune unnecessary files from ./node_modules, such as markdown, typescript source files.
+    3. [ndm](https://github.com/720kb/ndm) - (npm desktop manager)Npm desktop GUI.
 * Bash
     1. [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - To download videos from youtube and few other resource.
     2. [tokei](https://github.com/XAMPPRocky/tokei) - To count your code, quickly.
