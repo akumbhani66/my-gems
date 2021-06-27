@@ -15,7 +15,9 @@
     5.  [own photos](https://github.com/hooram/ownphotos) Self hosted alternative to google photos
     6.  [vscode on sercer](https://github.com/cdr/sshcode) To run vscode on any server over ssh
     7.  [asciinema](https://github.com/asciinema/asciinema) To record termial session.
-    8.  [HapticKey](https://github.com/niw/HapticKey) A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch Bar.
+    8.  [HapticKey](https://github.com/niw/HapticKey) A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch 
+    9.  [Lens](https://github.com/lensapp/lens) The Kubernetes IDE
+Bar.
     9.  [sshcode](https://github.com/cdr/sshcode) - To run vscode on server
     10. [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv 
     11. [hyper](https://hyper.is) - A terminal built on web technologies
