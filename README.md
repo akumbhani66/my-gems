@@ -33,7 +33,8 @@ Bar.
     22. [Snapdrop](https://snapdrop.net) - local file sharing in your browser. Inspired by Apple's Airdrop.
     23. [VideoJS](https://github.com/videojs/video.js) - web video player built from the ground up for an HTML5 world.
     24. [GoAccess](https://goaccess.io/) - real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser
-    25.[ddosify](https://github.com/ddosify/ddosify) - Ddosify - High-performance load testing tool
+    25. [ddosify](https://github.com/ddosify/ddosify) - Ddosify - High-performance load testing tool
+    26. [fasthttp](https://github.com/valyala/fasthttp) - Fast http pkg for Go
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md) - For linux users to save passwords like macOs key-chain
