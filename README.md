@@ -35,6 +35,7 @@ Bar.
     24. [GoAccess](https://goaccess.io/) - real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser
     25. [ddosify](https://github.com/ddosify/ddosify) - Ddosify - High-performance load testing tool
     26. [fasthttp](https://github.com/valyala/fasthttp) - Fast http pkg for Go
+    27. [vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md) - For linux users to save passwords like macOs key-chain
