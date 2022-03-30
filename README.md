@@ -38,6 +38,7 @@ Bar.
     27. [vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server
     28. [send](https://github.com/timvisee/send) - Simple, private file sharing
     29. [tmate](https://tmate.io/) - Instant terminal sharing
+    30. [picoshare](https://github.com/mtlynch/picoshare) - Lightweight service for sharing images, videos, and other files.
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md) - For linux users to save passwords like macOs key-chain
