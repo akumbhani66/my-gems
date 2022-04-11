@@ -39,7 +39,7 @@ Bar.
     28. [send](https://github.com/timvisee/send) - Simple, private file sharing
     29. [tmate](https://tmate.io/) - Instant terminal sharing
     30. [picoshare](https://github.com/mtlynch/picoshare) - Lightweight service for sharing images, videos, and other files.
-    31. [lf](https://github.com/gokcehan/lf)
+    31. [lf](https://github.com/gokcehan/lf) - Terminal file manager
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md) - For linux users to save passwords like macOs key-chain
