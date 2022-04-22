@@ -40,6 +40,7 @@ Bar.
     29. [tmate](https://tmate.io/) - Instant terminal sharing
     30. [picoshare](https://github.com/mtlynch/picoshare) - Lightweight service for sharing images, videos, and other files.
     31. [lf](https://github.com/gokcehan/lf) - Terminal file manager
+    32. [nocodb](https://github.com/nocodb/nocodb) - Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md) - For linux users to save passwords like macOs key-chain
