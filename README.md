@@ -41,6 +41,7 @@ Bar.
     30. [picoshare](https://github.com/mtlynch/picoshare) - Lightweight service for sharing images, videos, and other files.
     31. [lf](https://github.com/gokcehan/lf) - Terminal file manager
     32. [nocodb](https://github.com/nocodb/nocodb) - Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+    33. [code edit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. 
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md) - For linux users to save passwords like macOs key-chain
