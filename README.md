@@ -43,6 +43,9 @@ Bar.
     32. [nocodb](https://github.com/nocodb/nocodb) - Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
     33. [code edit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. 
     34. [onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+    35. [import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - VS code extension that display inline in the editor the size of the imported package. 
+
+
 * Blogs/Posts/Repos
     1. [DevOps-Practices](https://github.com/bregman-arie/devops-exercises)
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md) - For linux users to save passwords like macOs key-chain
