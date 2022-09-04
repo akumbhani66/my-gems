@@ -7,6 +7,7 @@
 * Bash
     1. [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - To download videos from youtube and few other resource.
     2. [tokei](https://github.com/XAMPPRocky/tokei) - To count your code, quickly.
+    3. [clone-all](https://gist.github.com/akumbhani66/34f2bbd36cddef244c2d46d16f6b6550) -- To clone all the repos under organization/username.
 * Tools/Utilities
     1.  [croc](https://github.com/schollz/croc) To transfer things from terminal to terminal
     2.  [webtty](https://github.com/maxmcd/webtty) To share terminal session
