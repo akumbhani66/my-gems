@@ -45,6 +45,8 @@ Bar.
     33. [code edit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. 
     34. [onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
     35. [import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - VS code extension that display inline in the editor the size of the imported package. 
+    36. [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor.
+
 
 
 * Blogs/Posts/Repos
