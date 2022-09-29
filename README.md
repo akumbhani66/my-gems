@@ -56,4 +56,4 @@ Bar.
     3. [git-useful-stuffs](https://github.com/jbranchaud/til/#git)
     4. [public-apis](https://github.com/public-apis/public-apis)
 * Authors
-    1. [Quincy Larson](https://github.com/QuincyLarson)
+    1. [Quincy Larson](https://www.freecodecamp.org/news/author/quincylarson/)
