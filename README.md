@@ -55,5 +55,6 @@ Bar.
     2. [git-password-caching](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md) - For linux users to save passwords like macOs key-chain
     3. [git-useful-stuffs](https://github.com/jbranchaud/til/#git)
     4. [public-apis](https://github.com/public-apis/public-apis)
+    5. [security-list](https://security-list.js.org/#/
 * Authors
     1. [Quincy Larson](https://www.freecodecamp.org/news/author/quincylarson/)
