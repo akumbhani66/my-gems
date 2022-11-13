@@ -18,6 +18,7 @@
     7.  [asciinema](https://github.com/asciinema/asciinema) To record termial session.
     8.  [HapticKey](https://github.com/niw/HapticKey) A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch 
     9.  [Lens](https://github.com/lensapp/lens) The Kubernetes IDE
+    10. [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 Bar.
     10.  [sshcode](https://github.com/cdr/sshcode) - To run vscode on server
     11. [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv 
