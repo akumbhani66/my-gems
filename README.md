@@ -48,6 +48,7 @@ Bar.
     35. [import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - VS code extension that display inline in the editor the size of the imported package. 
     36. [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor.
     37. [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution.
+    38. [ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT desktop app
 
 
 
