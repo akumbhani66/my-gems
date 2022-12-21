@@ -49,6 +49,7 @@ Bar.
     36. [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor.
     37. [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution.
     38. [ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT desktop app
+    39. [docker-lint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
 
 
