@@ -50,6 +50,8 @@ Bar.
     37. [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution.
     38. [ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT desktop app
     39. [docker-lint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+    40. [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+
 
 
 
