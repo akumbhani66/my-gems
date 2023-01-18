@@ -63,3 +63,4 @@ Bar.
     5. [security-list](https://security-list.js.org/#/)
 * Authors
     1. [Quincy Larson](https://www.freecodecamp.org/news/author/quincylarson/)
+    2. [Alex-xu](https://www.linkedin.com/in/alex-xu-a8131b11/)
